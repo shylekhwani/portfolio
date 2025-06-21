@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+*{
+    font-family: Outfit;
+    background-color: white;
+    color: black; /* Optional: to ensure text is visible */
+};
