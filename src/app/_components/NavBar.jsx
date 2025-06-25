@@ -38,7 +38,7 @@ const NavBar = () => {
               <li><a className='font-Ovo' href='#about'>About Me</a></li>
               <li><a className='font-Ovo' href='#Services'>Services</a></li>
               <li><a className='font-Ovo' href='#work'>My Work</a></li>
-              <li><a className='font-Ovo' href='#Contact Me'>Contact Me</a></li>
+              <li><a className='font-Ovo' href='#Contact'>Contact Me</a></li>
           </ul>
 
         <div className='flex items-center gap-4'>
@@ -69,7 +69,7 @@ const NavBar = () => {
             <li><a className='font-Ovo'  onClick={closeMenu} href='#about'>About Me</a></li>
             <li><a className='font-Ovo'  onClick={closeMenu} href='#Services'>Services</a></li>
             <li><a className='font-Ovo'  onClick={closeMenu} href='#work'>My Work</a></li>
-            <li><a className='font-Ovo'  onClick={closeMenu} href='#Contact Me'>Contact Me</a></li>
+            <li><a className='font-Ovo'  onClick={closeMenu} href='#Contact'>Contact Me</a></li>
 
           </ul>
       </nav>
