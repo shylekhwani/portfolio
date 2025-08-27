@@ -79,6 +79,12 @@ export const assets = {
 };
 
 export const workData = [
+   {
+    title: 'E-Commerce App',
+    description: 'A full-stack e-commerce web application built with Next.js 14',
+    bgImage: '/ecomm.jpg',
+    link: 'https://ecomm-six-xi.vercel.app/',
+  },
   {
     title: 'Crypto Tracker',
     description: 'Full Stack MERN Project',
